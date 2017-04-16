@@ -1,4 +1,5 @@
 Política de Privacidade do Mr-Bot
+=================================
 
 A política de privacidade do Mr-Bot Conference busca definir regras para os usuários do chatbot Facebook Messenger. Como usuário do Facebook, você está sujeito, também, à política de privacidade do Facebook. Verifique as configurações de privacidade da sua conta para mais informações.
 
